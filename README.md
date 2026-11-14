@@ -5,6 +5,6 @@
 
 | 썸네일 | 영상 | 코드 |
 | :---: | --- | --- |
-| <img src="ready-for-christmas/thumb.png" width="180"> | [Ready for Christmas](https://youtube.com/shorts/rrnFGG_tekw) | [ready-for-christmas/](ready-for-christmas/) |
+| <img src="https://i.ytimg.com/vi/rrnFGG_tekw/hqdefault.jpg" width="180"> | [Ready for Christmas](https://youtube.com/shorts/rrnFGG_tekw) | [ready-for-christmas/](ready-for-christmas/) |
 
 원하는 게 있으면 영상에 댓글 달아주세요. 만들어드릴게요!
