@@ -1,12 +1,10 @@
-# Ready for Christmas
+# ASCII Shorts
 
-ASCII winter-scene animation generator, built for the 재규의세상 YouTube Short
-"Ready for Christmas" (https://youtube.com/shorts/rrnFGG_tekw).
+코드 한 줄씩 쳐질 때마다 장면이 만들어지는 ASCII 아트 쇼츠 모음입니다.
+재규의세상 채널의 "코드로 만드는 세계" 시리즈 - 각 폴더에 영상 한 편의 전체 코드가 들어 있습니다.
 
-## Files
-- `winter_scene.py` - scene + effects library: ASCII sprites (Rudolph, Santa, trees, snow), color and glitter effects
-- `winter_v4.py` - choreography: typing animation anchors, variable-speed typing zones, element-by-element scene build
-- `gen.py` - compositor and music synthesis: renders frames and audio, assembles the final video
+| 썸네일 | 영상 | 코드 |
+| :---: | --- | --- |
+| <img src="ready-for-christmas/thumb.png" width="180"> | [Ready for Christmas](https://youtube.com/shorts/rrnFGG_tekw) | [ready-for-christmas/](ready-for-christmas/) |
 
-## Output
-A 1080x1920 vertical video (36s): terminal/code split view, the scene building line by line, with synthesized music.
+원하는 게 있으면 영상에 댓글 달아주세요. 만들어드릴게요!
